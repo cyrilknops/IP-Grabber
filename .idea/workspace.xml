@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19c9e8f6-022a-4325-aa76-f1c44787d96e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urls.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grabber.php" beforeDir="false" afterPath="$PROJECT_DIR$/grabber.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4.11" />
+  <component name="ProjectId" id="1jPRd1r8i3PSLPXKDuQe12Fnpfm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="grabber.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/grabber.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.grabber.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19c9e8f6-022a-4325-aa76-f1c44787d96e" name="Default Changelist" comment="" />
+      <created>1603703824010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603703824010</updated>
+      <workItem from="1603703825119" duration="4108000" />
+      <workItem from="1603744555465" duration="5266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="169" key="#CLI_Interpreters" timestamp="1603742807701">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="435" y="169" key="#CLI_Interpreters/0.0.1707.1027@0.0.1707.1027" timestamp="1603742807701" />
+    <state x="563" y="157" key="#PHP" timestamp="1603742817152">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="563" y="157" key="#PHP/0.0.1707.1027@0.0.1707.1027" timestamp="1603742817152" />
+    <state x="635" y="269" key="FileChooserDialogImpl" timestamp="1603742786974">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="635" y="269" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1603742786974" />
+    <state x="641" y="237" key="NewPhpClassDialog" timestamp="1603707602678">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="641" y="237" key="NewPhpClassDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1603707602678" />
+    <state x="690" y="438" key="NewPhpFileDialog" timestamp="1603744740960">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="690" y="438" key="NewPhpFileDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1603744740960" />
+  </component>
+</project>
